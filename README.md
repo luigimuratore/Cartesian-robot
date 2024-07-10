@@ -11,6 +11,7 @@
 
 </div>
 
+This project aims at ...
 
 <div align="center">
   <img src="https://github.com/luigimuratore/Cartesian-robot/assets/126814136/f06a9e45-4e02-4226-a2ec-7a7057c06556" width="500" />
